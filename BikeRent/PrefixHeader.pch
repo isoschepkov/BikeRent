@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  BikeRent
+//
+//  Created by Ivan Oschepkov on 25.10.14.
+//  Copyright (c) 2014 Empatika. All rights reserved.
+//
+
+#ifndef BikeRent_PrefixHeader_pch
+#define BikeRent_PrefixHeader_pch
+
+#import "BRAPIClient.h"
+#import "LocationHelper.h"
+#import "Compatibility.h"
+#import "Constants.h"
+
+#import "UIViewController+Appearance.h"
+#import "UIView+SnapshotAdditions.h"
+#import "UIImage+ImageEffects.h"
+#import "UIColor+Default.h"
+
+#endif

@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.1'
+pod 'AFNetworking', '~> 2.2'
+pod 'Google-Maps-iOS-SDK', '~> 1.8.0'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'UICKeyChainStore', '~> 1.0.5'
+pod 'SDWebImage', '~>3.6'
+pod 'PayPal-iOS-SDK'
+pod 'BlocksKit', '~> 2.2.2'
+pod 'Bolts'
+

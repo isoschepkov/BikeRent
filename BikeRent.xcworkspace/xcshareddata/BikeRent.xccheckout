@@ -10,14 +10,14 @@
 	<string>BikeRent</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F577ECFB7D890503FC8316969327EC0AB22B5D83</key>
+		<key>16065E8F441AA263E2B6B989A0C2E89DCE46364E</key>
 		<string>https://bitbucket.org/empatika/battlehack-bike-rent-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>BikeRent.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F577ECFB7D890503FC8316969327EC0AB22B5D83</key>
+		<key>16065E8F441AA263E2B6B989A0C2E89DCE46364E</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F577ECFB7D890503FC8316969327EC0AB22B5D83</string>
+	<string>16065E8F441AA263E2B6B989A0C2E89DCE46364E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F577ECFB7D890503FC8316969327EC0AB22B5D83</string>
+			<string>16065E8F441AA263E2B6B989A0C2E89DCE46364E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BikeRent</string>
 		</dict>

@@ -130,7 +130,7 @@
     NSLog(@"%@", futurePaymentAuthorization);
     authCode = futurePaymentAuthorization[@"response"][@"code"];
     
-    if([Ride sharedInstance].active){
+    if(![Ride sharedInstance].active){
         self.goButton.enabled = YES;
         self.goButton.alpha = 1.0f;
     }
